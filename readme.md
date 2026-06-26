@@ -1,5 +1,3 @@
-My apologies for that oversight\! Here is the content for your README.md file. You can copy this entire block, save it as a file named README.md on your computer, and then upload it using the "Upload files" button on GitHub.
-
 # **myHLS-Authenticated-Stream-Downloader**
 
 A robust, multi-threaded Python wrapper for yt-dlp designed to bypass strict server-side blocks, handle session-authenticated HLS streams, and override non-standard media segment extensions.
