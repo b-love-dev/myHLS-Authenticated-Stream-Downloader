@@ -45,7 +45,7 @@ referer\_url \= "PASTE\_YOUR\_REFERER\_HERE"
 9. Run the script:  
 10. Bash
 
-python download.py
+python myHLS-Authenticated-Stream-Downloader.py
 
 11.   
 12. 
