@@ -18,12 +18,9 @@ Before running the script, make sure you have the following installed on your sy
 2. **FFmpeg** (Ensure it is added to your system's PATH environment variables)  
 3. **Python Packages:**  
 4. Bash
-
-pip install yt-dlp pycryptodomex
-
-5.   
-6. (Note: pycryptodomex is required so yt-dlp can decrypt AES-128 streams natively without crashing).
-
+5. pip install yt-dlp pycryptodomex
+ (Note: pycryptodomex is required so yt-dlp can decrypt AES-128 streams natively without crashing).
+6. pip install streamlink
 ## **💻 Installation & Usage**
 
 1. Clone this repository or download the download.py file:  
